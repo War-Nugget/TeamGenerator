@@ -1,0 +1,23 @@
+{
+  "name": "teamgenerator",
+  "version": "1.0.0",
+  "description": "A node program that builds your team with different roles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/War-Nugget/TeamGenerator.git"
+  },
+  "author": "War-Nugget",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/War-Nugget/TeamGenerator/issues"
+  },
+  "homepage": "https://github.com/War-Nugget/TeamGenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^28.1.0"
+  }
+}

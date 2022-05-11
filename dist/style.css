@@ -1,0 +1,21 @@
+:root{ 
+
+    --primary: rgb(58, 236, 221);
+    --secondary: rgb(42, 42, 42);    
+    
+}
+#navbar {
+    background-color: var(--primary);
+    color: var(--secondary);
+    font-size: 50px;
+}
+
+.navbar-brand {
+    font-size: 50px;
+}
+
+
+.card-header {
+    background-color: var(--primary);
+    color: var(--secondary);
+}

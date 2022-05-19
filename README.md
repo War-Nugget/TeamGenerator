@@ -11,3 +11,6 @@ Team generator is my 10th homework assignement given to me by Georgia Tech. It w
 Before running the program, install package-lock.json and package.json and make sure jest and inquirer are installed.
 
 ![Team!](https://user-images.githubusercontent.com/97697696/167765479-afa672f8-3028-45da-aad9-e945ed17acaf.png)
+
+
+https://drive.google.com/file/d/1vdmW6YvYoOd00Py3bb0M0K3vqr7Et3hA/view?usp=sharing
